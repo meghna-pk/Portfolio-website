@@ -1,0 +1,63 @@
+body{
+background-color: blanchedalmond;
+}
+
+#header{
+    background-color: brown;
+    color: cornsilk;
+    
+}
+
+#introduction{
+    text-align: center;
+}
+
+.social-mediab img{
+   
+    width: 86px;
+    height: 86px;
+    display: block;
+    margin-left: 590px;
+    
+
+   
+
+}
+.social-mediac img{
+    
+    width: 88px;
+    height: 88px;
+    display: block;
+    margin-left: 590px;
+    
+
+}
+   
+
+
+h1{
+    color: darkblue;
+    font-size: 37px;
+
+}
+h3{
+    font-size: 31px;
+}
+p{
+    font-size: 29px ;
+
+}
+h2{ text-decoration: underline;
+    font-style: initial;
+    font-size: 32px;
+}
+#description{
+   
+    text text-align: padding-right: ;
+}
+h4{
+    font-size: 20px;
+}
+#end{
+    text-align: center;
+}
